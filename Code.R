@@ -95,7 +95,7 @@ word_count %>%
 
 countries <- c("afghanistan", "Albania", "Algeria", "andorra",  "angola", "antigua", "barbuda", "argentina", "armenia",  "aruba", "australia", "austria", "azerbaijan", "bahamas", "bahrain", "bangladesh", "barbados", "belarus", "belgium", "belize", "benin", "bermuda", "bhutan", "bolivia", "bosnia", "herzegovina", "botswana", "brazil", "brunei",
                "bulgaria", "burkina Faso", "burundi", "cambodia", "cameroon", "canada", "cape Verde",  "central African Republic", "chad", 
-                "chile",  "china", "taiwan", "colombia", "comoros", "congo", "costa Rica", "côte d'Ivoire", "croatia", "cuba", "cyprus", "czech Republic",
+                "chile",  "china", "taiwan", "colombia", "comoros", "congo", "costa Rica", "cÃ´te d'Ivoire", "croatia", "cuba", "cyprus", "czech Republic",
                "denmark", "djibouti", "timor", "ecuador", "egypt", "salvador", "guinea", "eritrea", "estonia", "ethiopia", "fiji", "finland", "france",
                "gabon", "gambia", "georgia", "germany", "ghana", "greece", "grenada", "guatemala", "guinea", "guyana", "haiti", "honduras", "hungary",
                "iceland", "india", "indonesia", "iran", "iraq", "ireland", "israel", "italy", "jamaica", "japan", "jordan", "kazakhstan", "kenya", "kiribati", "kuwait", "kyrgyzstan",
